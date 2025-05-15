@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "typescript-private-library",
   "description": "",
   "packageManager": "yarn@3.4.1",
