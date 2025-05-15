@@ -3,6 +3,9 @@
   "name": "typescript-private-library",
   "description": "",
   "packageManager": "yarn@3.4.1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "postinstall": "preconstruct dev",
     "prepare": "simple-git-hooks",
