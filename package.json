@@ -1,5 +1,6 @@
 {
-  "name": "typescript-private-library",
+  "name": "@zied-mabrouk/typescript-private-library",
+  "version": "2.0.0",
   "description": "",
   "packageManager": "yarn@3.4.1",
   "publishConfig": {
